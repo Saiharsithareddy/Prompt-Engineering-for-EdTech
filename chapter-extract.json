@@ -1,0 +1,326 @@
+[
+  {
+    "chapter_number": "6",
+    "chapter_name": "Reproduction in Animals",
+    "topics": [
+      {
+        "topic_name": "6.1 Modes of Reproduction",
+        "sub_topics": [
+          {
+            "sub_topic_name": null,
+            "content": [
+              {
+                "type": "paragraph",
+                "text": "Just as in plants, there are two modes by which animals reproduce. These are: (i) Sexual reproduction, and (ii) Asexual reproduction."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic_name": "6.2 Sexual Reproduction",
+        "sub_topics": [
+          {
+            "sub_topic_name": "Male Reproductive Organs",
+            "content": [
+              {
+                "type": "paragraph",
+                "text": "The male reproductive organs include a pair of testes (singular, testis), two sperm ducts and a penis (Fig. 6.1)."
+              },
+              {
+                "type": "image",
+                "caption": "Fig. 6.1: Male reproductive organs in humans"
+              }
+            ]
+          },
+          {
+            "sub_topic_name": "Female Reproductive Organs",
+            "content": [
+              {
+                "type": "paragraph",
+                "text": "The female reproductive organs are a pair of ovaries, oviducts (fallopian tubes) and the uterus (Fig. 6.3)."
+              },
+              {
+                "type": "image",
+                "caption": "Fig. 6.3: Female reproductive organs in humans"
+              }
+            ]
+          },
+          {
+            "sub_topic_name": "Fertilisation",
+            "content": [
+              {
+                "type": "paragraph",
+                "text": "The first step in the process of reproduction is the fusion of a sperm and an ovum. When sperms come in contact with an egg, one of the sperms may fuse with the egg."
+              },
+              {
+                "type": "activity",
+                "name": "Activity 6.1",
+                "text": "Visit some ponds or slow-flowing streams during spring or rainy season. Look out for clusters of frog\u2019s eggs floating in water."
+              },
+              {
+                "type": "boxed_fact",
+                "text": "Have you heard of test tube babies? Boojho and Paheli's teacher once told them in the class that in some women oviducts are blocked."
+              }
+            ]
+          },
+          {
+            "sub_topic_name": "Development of Embryo",
+            "content": [
+              {
+                "type": "paragraph",
+                "text": "Fertilisation results in the formation of zygote which begins to develop into an embryo [Fig. 6.8(a)]."
+              }
+            ]
+          },
+          {
+            "sub_topic_name": "Viviparous and Oviparous Animals",
+            "content": [
+              {
+                "type": "paragraph",
+                "text": "We have learnt that some animals give birth to young ones while some animals lay eggs which later develop into young ones."
+              },
+              {
+                "type": "activity",
+                "name": "Activity 6.2",
+                "text": "Try to observe eggs of the following organisms \u2013 frog, lizard, butterfly or moth, hen and crow or any other bird."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic_name": "Exercises",
+        "sub_topics": [],
+        "content": [
+          {
+            "type": "question",
+            "text": "1. Explain the importance of reproduction in organisms."
+          },
+          {
+            "type": "question",
+            "text": "2. Describe the process of fertilisation in human beings."
+          },
+          {
+            "type": "question",
+            "text": "3. Choose the most appropriate answer. (a) Internal fertilisation occurs (i) in female body..."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chapter_number": "7",
+    "chapter_name": "Reaching the Age of Adolescence",
+    "topics": [
+      {
+        "topic_name": "7.1 Adolescence and Puberty",
+        "sub_topics": [
+          {
+            "sub_topic_name": null,
+            "content": [
+              {
+                "type": "paragraph",
+                "text": "The period of life, when the body undergoes changes, leading to reproductive maturity, is called adolescence."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic_name": "7.2 Changes at Puberty",
+        "sub_topics": [
+          {
+            "sub_topic_name": "Increase in Height",
+            "content": [
+              {
+                "type": "activity",
+                "name": "Activity 7.1",
+                "text": "The following chart gives the average rate of growth in height of boys and girls with age."
+              }
+            ]
+          },
+          {
+            "sub_topic_name": "Change in Body Shape",
+            "content": [
+              {
+                "type": "paragraph",
+                "text": "Have you noticed that boys in your class have broader shoulders and wider chests than boys in junior classes?"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic_name": "7.9 Reproductive Health",
+        "sub_topics": [
+          {
+            "sub_topic_name": "Nutritional Needs of the Adolescents",
+            "content": [
+              {
+                "type": "activity",
+                "name": "Activity 7.4",
+                "text": "Make a group with your friends. Write down the items of food in your breakfast, lunch and dinner you had on the previous day."
+              }
+            ]
+          },
+          {
+            "sub_topic_name": "Personal Hygiene",
+            "content": [
+              {
+                "type": "paragraph",
+                "text": "Everyone should have a bath at least once everyday."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic_name": "Exercises",
+        "sub_topics": [],
+        "content": [
+          {
+            "type": "question",
+            "text": "1. What is the term used for chemical secretions of endocrine glands responsible for changes taking place in the body?"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chapter_number": "8",
+    "chapter_name": "Force and Pressure",
+    "topics": [
+      {
+        "topic_name": "8.1 Force \u2013 A Push or a Pull",
+        "sub_topics": [
+          {
+            "sub_topic_name": null,
+            "content": [
+              {
+                "type": "activity",
+                "name": "Activity 8.1",
+                "text": "Table 8.1 gives some examples of familiar situations involving motion of objects."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic_name": "8.3 Exploring Forces",
+        "sub_topics": [
+          {
+            "sub_topic_name": null,
+            "content": [
+              {
+                "type": "activity",
+                "name": "Activity 8.2",
+                "text": "Choose a heavy object like a table or a box, which you can move only by pushing hard."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic_name": "8.8 Pressure",
+        "sub_topics": [
+          {
+            "sub_topic_name": null,
+            "content": [
+              {
+                "type": "paragraph",
+                "text": "The force acting on a unit area of a surface is called pressure."
+              },
+              {
+                "type": "image",
+                "caption": "Fig. 8.13: A porter carrying a heavy load"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic_name": "Exercises",
+        "sub_topics": [],
+        "content": [
+          {
+            "type": "question",
+            "text": "1. Give two examples each of situations in which you push or pull to change the state of motion of objects."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chapter_number": "13",
+    "chapter_name": "Light",
+    "topics": [
+      {
+        "topic_name": "13.2 Laws of Reflection",
+        "sub_topics": [
+          {
+            "sub_topic_name": null,
+            "content": [
+              {
+                "type": "activity",
+                "name": "Activity 13.1",
+                "text": "Fix a white sheet of paper on a drawing board or a table."
+              },
+              {
+                "type": "table",
+                "caption": "Table 13.1 : Angles of Incidence and Reflection"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic_name": "13.7 What is inside Our Eyes?",
+        "sub_topics": [
+          {
+            "sub_topic_name": null,
+            "content": [
+              {
+                "type": "paragraph",
+                "text": "We see things only when light coming from them enters our eyes."
+              },
+              {
+                "type": "image",
+                "caption": "Fig. 13.14: Human eye"
+              },
+              {
+                "type": "activity",
+                "name": "Activity 13.8",
+                "text": "Look into your friend\u2019s eye. Observe the size of the pupil."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic_name": "13.10 What is the Braille System?",
+        "sub_topics": [
+          {
+            "sub_topic_name": null,
+            "content": [
+              {
+                "type": "paragraph",
+                "text": "The most popular resource for visually challenged persons is Braille."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic_name": "Exercises",
+        "sub_topics": [],
+        "content": [
+          {
+            "type": "question",
+            "text": "1. Suppose you are in a dark room. Can you see objects in the room? Can you see objects outside the room. Explain."
+          }
+        ]
+      }
+    ]
+  }
+]
